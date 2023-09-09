@@ -10,7 +10,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
 ### AWARD
+##### 2023
 * SWING 2023 교육&해커톤 with LONDON : 우수상
+* 제3회 숙명여자대학교 프로그래밍 경진대회(SMUPC) : 특별상
 
 ### CONTACT
 <a href="mailto:0yeonjae2@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:0yeonjae2@naver.com"/></a> <a href="mailto:0yeonjae2@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0yeonjae2@sookmyung.ac.kr"/></a>
