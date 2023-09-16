@@ -12,7 +12,8 @@
 ### AWARD
 ##### 2023
 * <a href="https://0yeonjae2.tistory.com/entry/SWING-2023-%EA%B5%90%EC%9C%A1%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%B4%EC%BB%A4%ED%86%A4-with-LONDON-%ED%9B%84%EA%B8%B0">SWING 2023 교육&해커톤 with LONDON</a> : 우수상
-* 제3회 숙명여자대학교 프로그래밍 경진대회(SMUPC) : 특별상
+  
+ 
 
 ### CONTACT
 <a href="mailto:0yeonjae2@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:0yeonjae2@naver.com"/></a> <a href="mailto:0yeonjae2@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0yeonjae2@sookmyung.ac.kr"/></a>
@@ -26,6 +27,8 @@
 
 <!--
 **yeonjae02/yeonjae02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+* 제3회 숙명여자대학교 프로그래밍 경진대회(SMUPC) : 특별상
 
 Here are some ideas to get you started:
 
