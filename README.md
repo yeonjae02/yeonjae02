@@ -5,7 +5,7 @@
 - 숙명여자대학교 소프트웨어학부 소프트웨어융합전공 (2022.03. ~ )
 - 숙명여자대학교 소프트웨어학부 c언어 멘토링 학회 **FORZA** 27기 부회장 (2023.01. ~ )
 - 숙명여자대학교 소프트웨어학부 알고리즘 학회 **ALGOS** 13기 부원 (2023.03. ~ )
-
+- 숙명여자대학교 인터넷거버넌스 동아리 **IGYS** 1기 임원 (2023.09. ~ ) 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
@@ -14,11 +14,22 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
 
+---
+
 ### ✨ AWARD ✨
 ##### 2023
 * <a href="https://0yeonjae2.tistory.com/entry/SWING-2023-%EA%B5%90%EC%9C%A1%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%B4%EC%BB%A4%ED%86%A4-with-LONDON-%ED%9B%84%EA%B8%B0">SWING 2023 교육&해커톤 with LONDON</a> : 우수상
-  
 
+### 💪 EXPERIENCE 💪 
+#### HACKATHON
+- SWING 2023 교육&해커톤 with LONDON (숙명여자대학교 SW중심대학사업단) : 2023.07.10. ~ 2023.07.14.
+- 제2회 신.빅.해 (신한 빅데이터 해커톤 대회) : 2023.10.04. ~ 2023.10.08.
+#### INTERNET GOVERNANCE
+- 인터넷거버넌스 전문가그룹 EG@IG 3기 : 2023.04. ~ 2023.11.
+- <a href="https://0yeonjae2.tistory.com/entry/KrIGF-2023-%ED%9B%84%EA%B8%B0">제12회 한국인터넷거버넌스포럼(KrIGF) </a> : 2023.07.07.
+- <a href="https://0yeonjae2.tistory.com/entry/APIGA-2023-%ED%9B%84%EA%B8%B0">Asia Pacific Internet Governacne Academy 2023 (APIGA, 아태지역 인터넷거버넌스아카데미)</a> : 2023.07.24. ~ 2023.07.28.
+  
+---
 ### 📫 CONTACT 📫
 <a href="mailto:0yeonjae2@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:0yeonjae2@naver.com"/></a> <a href="mailto:0yeonjae2@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0yeonjae2@sookmyung.ac.kr"/></a>
 
