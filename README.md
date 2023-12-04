@@ -27,7 +27,7 @@
 #### INTERNET GOVERNANCE
 - 인터넷거버넌스 전문가그룹 EG@IG 3기 : 2023.04. ~ 2023.11.
 - <a href="https://0yeonjae2.tistory.com/entry/KrIGF-2023-%ED%9B%84%EA%B8%B0">제12회 한국인터넷거버넌스포럼(KrIGF) </a> : 2023.07.07.
-- <a href="https://0yeonjae2.tistory.com/entry/APIGA-2023-%ED%9B%84%EA%B8%B0">Asia Pacific Internet Governacne Academy 2023 (APIGA, 아태지역 인터넷거버넌스아카데미)</a> : 2023.07.24. ~ 2023.07.28.
+- <a href="https://0yeonjae2.tistory.com/entry/APIGA-2023-%ED%9B%84%EA%B8%B0">Asia Pacific Internet Governance Academy 2023 (APIGA, 아태지역 인터넷거버넌스아카데미)</a> : 2023.07.24. ~ 2023.07.28.
   
 ---
 ### 📫 CONTACT 📫
