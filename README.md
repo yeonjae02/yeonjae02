@@ -3,9 +3,9 @@
 ### My name is Yeonjae Choi.
 
 - 숙명여자대학교 소프트웨어학부 소프트웨어융합전공 (2022.03. ~ )
-- 숙명여자대학교 소프트웨어학부 c언어 멘토링 학회 **FORZA** 27기 부회장 (2023.01. ~ )
-- 숙명여자대학교 소프트웨어학부 알고리즘 학회 **ALGOS** 13기 부원 (2023.03. ~ )
-- 숙명여자대학교 인터넷거버넌스 동아리 **IGYS** 1기 임원 (2023.09. ~ ) 
+- 숙명여자대학교 소프트웨어학부 c언어 멘토링 학회 **FORZA** 27기 부회장 (2023.02. ~ 2024.01.)
+- 숙명여자대학교 소프트웨어학부 알고리즘 학회 **ALGOS** 14기 회장 (2024.02. ~ )
+- 숙명여자대학교 인터넷거버넌스 동아리 **IGYS** 1기 부원 (2023.09. ~ ) 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
