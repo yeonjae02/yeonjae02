@@ -1,18 +1,33 @@
 # Hello World!
 
 ### My name is Yeonjae Choi.
-
-- 숙명여자대학교 소프트웨어학부 소프트웨어융합전공 (2022.03. ~ )
+- 숙명여자대학교 소프트웨어학부 알고리즘 학회 **ALGOS** 14기 회장 (2024.01. ~ )
+- 숙명여자대학교 인터넷거버넌스 동아리 **IGYS** 1기 부원 (2023.09. ~)
 - 숙명여자대학교 소프트웨어학부 c언어 멘토링 학회 **FORZA** 27기 부회장 (2023.02. ~ 2024.01.)
-- 숙명여자대학교 소프트웨어학부 알고리즘 학회 **ALGOS** 14기 회장 (2024.02. ~ )
-- 숙명여자대학교 인터넷거버넌스 동아리 **IGYS** 1기 부원 (2023.09. ~ ) 
+- 숙명여자대학교 소프트웨어학부 소프트웨어융합전공 (2022.03. ~)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+<details>
+<summary>Technology Stack and Experience</summary>
+<div markdown="1">       
+
+#### Currently Using
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+
+#### Currently Studying
+<img src="https://img.shields.io/badge/Microsoft Sql Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+
+#### Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"> 
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> 
+
+
+#### Past Experience
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+
+</div>
+</details>
 
 ---
 
@@ -22,12 +37,13 @@
 
 ### 💪 EXPERIENCE 💪 
 #### HACKATHON
-- SWING 2023 교육&해커톤 with LONDON (숙명여자대학교 SW중심대학사업단) : 2023.07.10. ~ 2023.07.14.
 - 제2회 신.빅.해 (신한금융그룹 빅데이터 해커톤) : 2023.10.04. ~ 2023.10.08.
+- SWING 2023 교육&해커톤 with LONDON (숙명여자대학교 SW중심대학사업단) : 2023.07.10. ~ 2023.07.14.
+
 #### INTERNET GOVERNANCE
-- 인터넷거버넌스 전문가그룹 EG@IG 3기 : 2023.04. ~ 2023.11.
-- <a href="https://0yeonjae2.tistory.com/entry/KrIGF-2023-%ED%9B%84%EA%B8%B0">제12회 한국인터넷거버넌스포럼(KrIGF) </a> : 2023.07.07.
-- <a href="https://0yeonjae2.tistory.com/entry/APIGA-2023-%ED%9B%84%EA%B8%B0">Asia Pacific Internet Governance Academy 2023 (APIGA, 아태지역 인터넷거버넌스아카데미)</a> : 2023.07.24. ~ 2023.07.28.
+- <a href="https://0yeonjae2.tistory.com/entry/APIGA-2023-%ED%9B%84%EA%B8%B0">Asia Pacific Internet Governance Academy 2023 (APIGA, 아태지역 인터넷거버넌스아카데미)</a>(2023.07.24. ~ 2023.07.28.)
+- <a href="https://0yeonjae2.tistory.com/entry/KrIGF-2023-%ED%9B%84%EA%B8%B0">제12회 한국인터넷거버넌스포럼(KrIGF) </a> (2023.07.07.)
+- 인터넷거버넌스 전문가그룹 EG@IG 3기 (2023.04. ~ 2023.11.)
   
 ---
 ### 📫 CONTACT 📫
@@ -39,6 +55,7 @@
 ### 💻 Baekjoon 💻
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0yeonjae2)](https://solved.ac/0yeonjae2/)
+
 
 <!--
 **yeonjae02/yeonjae02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,11 +71,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### GitHub
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjae02&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=yeonjae02&show_icons=true">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonjae02&count_bg=%23D9E5FF&title_bg=%23B2CCFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white) <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white">
 -->
