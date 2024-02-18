@@ -35,6 +35,8 @@
 ---
 
 ### ✨ AWARD ✨
+##### 2024 
+- SUAPC 2024 Winter : 특별상
 ##### 2023
 * <a href="https://0yeonjae2.tistory.com/entry/SWING-2023-%EA%B5%90%EC%9C%A1%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%B4%EC%BB%A4%ED%86%A4-with-LONDON-%ED%9B%84%EA%B8%B0">SWING 2023 교육&해커톤 with LONDON</a> : 우수상
 
