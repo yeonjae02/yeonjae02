@@ -1,7 +1,7 @@
 # Hello World!
 
 ### My name is Yeonjae Choi.
-- 숙명여자대학교 프로그래밍 중앙동아리 **SOLUX** 29기 부원 (2024.03. ~ )
+- 숙명여자대학교 프로그래밍 중앙동아리 **SOLUX** 29기 개발팀 부원 (2024.03. ~ )
 - 숙명여자대학교 소프트웨어학부 알고리즘 학회 **ALGOS** 14기 회장 (2024.01. ~ )
 - 숙명여자대학교 인터넷거버넌스 동아리 **IGYS** 1기 부원 (2023.09. ~)
 - 숙명여자대학교 소프트웨어학부 c언어 멘토링 학회 **FORZA** 27기 부회장 (2023.02. ~ 2024.01.)
@@ -37,7 +37,7 @@
 
 ### ✨ AWARD ✨
 ##### 2024 
-- SUAPC 2024 Winter : 특별상
+- SUAPC 2024 Winter : 특별상 (학교 1위)
 ##### 2023
 * <a href="https://0yeonjae2.tistory.com/entry/SWING-2023-%EA%B5%90%EC%9C%A1%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%B4%EC%BB%A4%ED%86%A4-with-LONDON-%ED%9B%84%EA%B8%B0">SWING 2023 교육&해커톤 with LONDON</a> : 우수상
 
