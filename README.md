@@ -50,7 +50,10 @@
 - <a href="https://0yeonjae2.tistory.com/entry/APIGA-2023-%ED%9B%84%EA%B8%B0">Asia Pacific Internet Governance Academy 2023 (APIGA, 아태지역 인터넷거버넌스아카데미)</a>(2023.07.24. ~ 2023.07.28.)
 - <a href="https://0yeonjae2.tistory.com/entry/KrIGF-2023-%ED%9B%84%EA%B8%B0">제12회 한국인터넷거버넌스포럼(KrIGF) </a> (2023.07.07.)
 - 인터넷거버넌스 전문가그룹 EG@IG 3기 (2023.04. ~ 2023.11.)
-  
+
+#### Beta Reader
+- <a href="https://0yeonjae2.tistory.com/entry/%EB%B2%A0%ED%83%80%EB%A6%AC%EB%8D%94-%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%B2%A0%ED%83%80%EB%A6%AC%EB%8D%94-%ED%9B%84%EA%B8%B0"> <혼자 공부하는 네트워크> </a> 베타리딩 (2024.02.14. ~ 2024.02.25.)
+
 ---
 ### 📫 CONTACT 📫
 <a href="mailto:0yeonjae2@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:0yeonjae2@naver.com"/></a> <a href="mailto:0yeonjae2@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0yeonjae2@sookmyung.ac.kr"/></a>
