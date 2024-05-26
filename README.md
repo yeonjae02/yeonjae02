@@ -46,6 +46,9 @@
 - 제2회 신.빅.해 (신한금융그룹 빅데이터 해커톤) : 2023.10.04. ~ 2023.10.08.
 - SWING 2023 교육&해커톤 with LONDON (숙명여자대학교 SW중심대학사업단) : 2023.07.10. ~ 2023.07.14.
 
+#### Algorithm
+- <a href="https://icpc-sinchon.io/">ICPC Sinchon</a> 24S 홍보팀 팀원 (2024.05 ~ )
+
 #### INTERNET GOVERNANCE
 - <a href="https://0yeonjae2.tistory.com/entry/APIGA-2023-%ED%9B%84%EA%B8%B0">Asia Pacific Internet Governance Academy 2023 (APIGA, 아태지역 인터넷거버넌스아카데미)</a>(2023.07.24. ~ 2023.07.28.)
 - <a href="https://0yeonjae2.tistory.com/entry/KrIGF-2023-%ED%9B%84%EA%B8%B0">제12회 한국인터넷거버넌스포럼(KrIGF) </a> (2023.07.07.)
