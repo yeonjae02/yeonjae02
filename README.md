@@ -48,7 +48,7 @@
 
 #### Algorithm
 - <a href="https://icpc-sinchon.io/">ICPC Sinchon</a> 24S 홍보팀 팀원 (2024.05 ~ )
-- <a href="https://www.acmicpc.net/category/detail/4212"> 제4회 숙명여자대학교 프로그래밍 경진대회 (SMUPC) </a> 총괄 및 문제 출제(A, B번)
+- <a href="https://www.acmicpc.net/category/detail/4212"> 제4회 숙명여자대학교 프로그래밍 경진대회 (SMUPC) </a> 총괄 및 문제 출제(A, B번) (2024.02 ~ 2024.05)
 
 #### INTERNET GOVERNANCE
 - <a href="https://0yeonjae2.tistory.com/entry/APIGA-2023-%ED%9B%84%EA%B8%B0">Asia Pacific Internet Governance Academy 2023 (APIGA, 아태지역 인터넷거버넌스아카데미)</a>(2023.07.24. ~ 2023.07.28.)
