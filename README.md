@@ -43,7 +43,9 @@
 
 ### 💪 EXPERIENCE 💪 
 #### ALGORITHM
-- <a href="https://icpc-sinchon.io/">ICPC Sinchon</a> 24S 홍보팀 팀원 : 2024.05 ~ present
+- <a href="https://icpc-sinchon.io/">ICPC Sinchon</a> 25W 캠프장 : 2024.09 ~ present
+- <a href="https://icpc-sinchon.io/">ICPC Sinchon</a> 24S 알고리즘 캠프 초급 멘토, <a href="https://www.acmicpc.net/contest/view/1319">2024S SUAPC</a> 대회관리팀 팀원 : 2024.07 ~ 2024.08.
+- <a href="https://icpc-sinchon.io/">ICPC Sinchon</a> 24S 홍보팀 팀원 : 2024.05 ~ 2024.08.
 - <a href="https://www.acmicpc.net/category/detail/4212"> 제4회 숙명여자대학교 프로그래밍 경진대회 (SMUPC) </a> 총괄 및 문제 출제(A, B번) : 2024.02 ~ 2024.05
 
 #### PROJECT
