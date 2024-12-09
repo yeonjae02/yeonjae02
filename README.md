@@ -2,7 +2,7 @@
 
 ### My name is Yeonjae Choi.
 - 숙명여자대학교 프로그래밍 중앙동아리 **SOLUX** 29기 개발팀 부원 : 2024.03. ~ present
-- 숙명여자대학교 소프트웨어학부 알고리즘 학회 **ALGOS** 14기 회장 : 2024.01. ~present
+- 숙명여자대학교 소프트웨어학부 알고리즘 학회 **ALGOS** 14기 회장 : 2024.01. ~ present
 - 숙명여자대학교 인터넷거버넌스 동아리 **IGYS** 1기 부원 및 운영진 : 2023.09. ~ present
 - 숙명여자대학교 소프트웨어학부 c언어 멘토링 학회 **FORZA** 27기 부회장 : 2023.02. ~ 2024.01.
 - 숙명여자대학교 소프트웨어학부 소프트웨어융합전공 : 2022.03. ~  present
@@ -46,6 +46,7 @@
 - <a href="https://www.acmicpc.net/category/detail/4212"> 제4회 숙명여자대학교 프로그래밍 경진대회 (SMUPC) </a> 총괄 및 문제 출제(A, B번) : 2024.02 ~ 2024.05
 
 #### PROJECT
+- <a href="https://github.com/Bloom-booth/BloomBooth">Bloom Booth : Find your bloom</a> 앱 프론트엔드 : 2024.11. ~ 2024.12
 - <a href="https://github.com/Solucitation/midpoint-backend">MIDPOINT : 우리 어디서 만날까?</a> <a href="https://0yeonjae2.tistory.com/entry/%F0%9F%92%AB%EC%B5%9C%EC%A0%81%EC%9D%98-%EB%A7%8C%EB%82%A8-%EC%9E%A5%EC%86%8C%EB%A5%BC-%EC%B0%BE%EC%95%84%EB%9D%BC-MIDPOINT-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0%F0%9F%92%99">웹 백엔드</a> : 2024.03 ~ 2024.08.
 
 #### HACKATHON
