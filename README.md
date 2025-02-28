@@ -46,7 +46,7 @@
 #### PROJECT
 | 🔗프로젝트명(깃허브 링크) | 🔗유형(후기) | ⏳기간 |
 |-------|---|------|
-| <a href="https://github.com/appsolve-solux/wearther_backend">Wearther : 매일의 날씨를 입다</a> | 앱 백엔드(Spring Boot & PostgreSQL) | 2024.09. ~ 2025.02. |
+| <a href="https://github.com/appsolve-solux/wearther_backend">Wearther : 매일의 날씨를 입다</a> | <a href="https://0yeonjae2.tistory.com/entry/SOLUX%EC%95%B1%EC%86%94%EB%B8%8C%F0%9F%AB%82%EC%95%B1%EB%B0%B1%EC%97%94%EB%93%9C%F0%9F%A7%B7%E2%9B%85wearther-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0-%F0%9F%92%9B">앱 백엔드(Spring Boot & PostgreSQL)</a> | 2024.09. ~ 2025.02. |
 | <a href="https://github.com/Bloom-booth/BloomBooth">Bloom Booth : Find your bloom</a>| <a href="https://0yeonjae2.tistory.com/entry/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%F0%9F%92%90%EC%95%B1%ED%94%84%EB%A1%A0%ED%8A%B8-Find-your-bloom-Bloom-Blooth-%ED%9B%84%EA%B8%B0%F0%9F%A9%B7?category=576980">앱 프론트엔드(Kotlin & Firebase)</a> |  2024.11. ~ 2024.12. |
 | <a href="https://github.com/Solucitation/midpoint-backend">MIDPOINT : 우리 어디서 만날까?</a> |<a href="https://0yeonjae2.tistory.com/entry/%F0%9F%92%AB%EC%B5%9C%EC%A0%81%EC%9D%98-%EB%A7%8C%EB%82%A8-%EC%9E%A5%EC%86%8C%EB%A5%BC-%EC%B0%BE%EC%95%84%EB%9D%BC-MIDPOINT-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0%F0%9F%92%99">웹 백엔드(Spring Boot & PostgreSQL)</a> |2024.03 ~ 2024.08.|
 
