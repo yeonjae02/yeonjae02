@@ -1,4 +1,4 @@
-# Hello World!
+# 👋 Hello World! 👋
 
 ### My name is Yeonjae Choi.
 - 숙명여자대학교 프로그래밍 중앙동아리 **SOLUX** 29기 개발팀 부원 : 2024.03. ~ 2025.02.
@@ -32,15 +32,12 @@
 
 ---
 
-### 💪 EXPERIENCE 💪 
+### 💪 EXPERIENCE 
 #### ALGORITHM
-| 이름 | 유형 | 기간 |
-|-------|---|------|
-| <a href="https://icpc-sinchon.io/">ICPC Sinchon</a> 2025 Winter | 캠프장 (공동 회장), SUAPC 2025 Winter 총괄 |  2024.09 ~ present |
-| <a href="https://icpc-sinchon.io/">ICPC Sinchon</a> 2024 Summer | 알고리즘 초급 멘토, <a href="https://www.acmicpc.net/contest/view/1319">SUAPC 2024 Summer</a> 대회관리팀 팀원  |  2024.07 ~ 2024.08. |
-| <a href="https://icpc-sinchon.io/">ICPC Sinchon</a> 2024 Summer | 홍보팀 팀원 |  2024.05 ~ 2024.08. |
-| <a href="https://www.acmicpc.net/category/detail/4212">제4회 숙명여자대학교 프로그래밍 경진대회 (SMUPC)</a> | 총괄 및 문제 출제(A, B번) |2024.02 ~ 2024.05 |
-| <a href="https://icpc-sinchon.io/suapc">SUAPC 2024 Winter</a> | 특별상 수상 (학교별 1위) |2024.02.17.|
+- <a href="https://icpc-sinchon.io/">ICPC Sinchon</a> 2025 Winter : 캠프장 (공동 회장), SUAPC 2025 Winter 총괄 (2024.09. ~ 2025.03.)
+- <a href="https://icpc-sinchon.io/">ICPC Sinchon</a> 2024 Summer : <a href="https://0yeonjae2.tistory.com/entry/ICPC-Sinchon-%F0%9F%9F%A224S-%EC%9A%B4%EC%98%81%EC%A7%84-%ED%9B%84%EA%B8%B0%F0%9F%9F%A2">홍보팀원, 알고리즘 초급 멘토, 대회관리팀원</a> (2024.05 ~ 2024.08.)
+- <a href="https://www.acmicpc.net/category/detail/4212">제4회 숙명여자대학교 프로그래밍 경진대회 (SMUPC)</a> :  <a href="https://0yeonjae2.tistory.com/entry/%E2%9D%84%EF%B8%8F%EC%A0%9C4%ED%9A%8C-%EC%88%99%EB%AA%85%EC%97%AC%EC%9E%90%EB%8C%80%ED%95%99%EA%B5%90-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8CSMUPC-%EC%B6%9C%EC%A0%9C%EC%A7%84%EC%9A%B4%EC%98%81%EC%A7%84-%ED%9B%84%EA%B8%B0%E2%9D%84%EF%B8%8F">총괄 및 문제 출제 (A번, B번)</a>  (2024.02. ~ 2024.05.)
+- <a href="https://icpc-sinchon.io/suapc">SUAPC 2024 Winter</a> : 특별상(학교별 1등상) 수상 (2024.02.17.)
 
 
 #### PROJECT
@@ -51,10 +48,8 @@
 | <a href="https://github.com/Solucitation/midpoint-backend">MIDPOINT : 우리 어디서 만날까?</a> |<a href="https://0yeonjae2.tistory.com/entry/%F0%9F%92%AB%EC%B5%9C%EC%A0%81%EC%9D%98-%EB%A7%8C%EB%82%A8-%EC%9E%A5%EC%86%8C%EB%A5%BC-%EC%B0%BE%EC%95%84%EB%9D%BC-MIDPOINT-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0%F0%9F%92%99">웹 백엔드(Spring Boot & PostgreSQL)</a> |2024.03 ~ 2024.08.|
 
 #### HACKATHON
-| 📣이름 | ⏳기간 | 🏆수상(후기) |
-|-------|------|----|
-| 제2회 신.빅.해 (신한금융그룹 빅데이터 해커톤) |  2023.10.04. ~ 2023.10.08. |  |
-| SWING 2023 교육&해커톤 with LONDON (숙명여자대학교 SW중심대학사업단) | 2023.07.10. ~ 2023.07.14.| <a href="https://0yeonjae2.tistory.com/entry/SWING-2023-%EA%B5%90%EC%9C%A1%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%B4%EC%BB%A4%ED%86%A4-with-LONDON-%ED%9B%84%EA%B8%B0">우수상</a> |
+- 제2회 신.빅.해 (신한금융그룹 빅데이터 해커톤) (2023.10.04. ~ 2023.10.08.)
+- SWING 2023 교육&해커톤 with LONDON (숙명여자대학교 SW중심대학사업단) :  <a href="https://0yeonjae2.tistory.com/entry/SWING-2023-%EA%B5%90%EC%9C%A1%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%B4%EC%BB%A4%ED%86%A4-with-LONDON-%ED%9B%84%EA%B8%B0">우수상</a> (2023.07.10. ~ 2023.07.14.)
 
 #### INTERNET GOVERNANCE & Beta Reader
 - <a href="https://0yeonjae2.tistory.com/entry/APIGA-2023-%ED%9B%84%EA%B8%B0">Asia Pacific Internet Governance Academy 2023 (APIGA, 아태지역 인터넷거버넌스아카데미)</a> 참가 : 2023.07.24. ~ 2023.07.28.
