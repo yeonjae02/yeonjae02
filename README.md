@@ -34,6 +34,7 @@
 
 ### 💪 EXPERIENCE 
 #### ✏️ ALGORITHM
+- <a href="https://www.acmicpc.net/category/detail/4494">제5회 숙명여자대학교 프로그래밍 경진대회 (SMUPC)</a> : 문제 출제 (A번, B번) (2025.02. ~ 2025.05.)
 - <a href="https://icpc-sinchon.io/">ICPC Sinchon</a> 2025 Winter : 캠프장 (공동 회장), SUAPC 2025 Winter 총괄 (2024.09. ~ 2025.03.)
 - <a href="https://icpc-sinchon.io/">ICPC Sinchon</a> 2024 Summer : <a href="https://0yeonjae2.tistory.com/entry/ICPC-Sinchon-%F0%9F%9F%A224S-%EC%9A%B4%EC%98%81%EC%A7%84-%ED%9B%84%EA%B8%B0%F0%9F%9F%A2">홍보팀원, 알고리즘 초급 멘토, 대회관리팀원</a> (2024.05 ~ 2024.08.)
 - <a href="https://www.acmicpc.net/category/detail/4212">제4회 숙명여자대학교 프로그래밍 경진대회 (SMUPC)</a> :  <a href="https://0yeonjae2.tistory.com/entry/%E2%9D%84%EF%B8%8F%EC%A0%9C4%ED%9A%8C-%EC%88%99%EB%AA%85%EC%97%AC%EC%9E%90%EB%8C%80%ED%95%99%EA%B5%90-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8CSMUPC-%EC%B6%9C%EC%A0%9C%EC%A7%84%EC%9A%B4%EC%98%81%EC%A7%84-%ED%9B%84%EA%B8%B0%E2%9D%84%EF%B8%8F">총괄 및 문제 출제 (A번, B번)</a>  (2024.02. ~ 2024.05.)
@@ -43,6 +44,7 @@
 #### 💻 PROJECT
 | 🔗프로젝트명(깃허브 링크) | 🔗유형(후기) | ⏳기간 |
 |-------|---|------|
+| <a href="https://github.com/howWeather/howWeather-backend">how Weather : 날씨어때</a> | 앱 백엔드(Spring Boot & PostgreSQL) | 2025.03. ~ present |
 | <a href="https://github.com/appsolve-solux/wearther_backend">Wearther : 매일의 날씨를 입다</a> | <a href="https://0yeonjae2.tistory.com/entry/SOLUX%EC%95%B1%EC%86%94%EB%B8%8C%F0%9F%AB%82%EC%95%B1%EB%B0%B1%EC%97%94%EB%93%9C%F0%9F%A7%B7%E2%9B%85wearther-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0-%F0%9F%92%9B">앱 백엔드(Spring Boot & PostgreSQL)</a> | 2024.09. ~ 2025.02. |
 | <a href="https://github.com/Bloom-booth/BloomBooth">Bloom Booth : Find your bloom</a>| <a href="https://0yeonjae2.tistory.com/entry/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%F0%9F%92%90%EC%95%B1%ED%94%84%EB%A1%A0%ED%8A%B8-Find-your-bloom-Bloom-Blooth-%ED%9B%84%EA%B8%B0%F0%9F%A9%B7?category=576980">앱 프론트엔드(Kotlin & Firebase)</a> |  2024.11. ~ 2024.12. |
 | <a href="https://github.com/Solucitation/midpoint-backend">MIDPOINT : 우리 어디서 만날까?</a> |<a href="https://0yeonjae2.tistory.com/entry/%F0%9F%92%AB%EC%B5%9C%EC%A0%81%EC%9D%98-%EB%A7%8C%EB%82%A8-%EC%9E%A5%EC%86%8C%EB%A5%BC-%EC%B0%BE%EC%95%84%EB%9D%BC-MIDPOINT-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0%F0%9F%92%99">웹 백엔드(Spring Boot & PostgreSQL)</a> |2024.03 ~ 2024.08.|
