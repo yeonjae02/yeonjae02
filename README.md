@@ -66,7 +66,7 @@
 
 ---
 ### 📫 CONTACT 📫
-<a href="mailto:0yeonjae2@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:0yeonjae2@naver.com"/></a> <a href="mailto:0yeonjae2@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0yeonjae2@sookmyung.ac.kr"/></a>
+<a href="mailto:0yeonjae2@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:0yeonjae2@naver.com"/></a> <a href="mailto:yeonjaechoi02@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeonjaechoi02@gmail.com"/></a>
 
 ### ✍️ Blog ✍️
 <a href="https://0yeonjae2.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://0yeonjae2.tistory.com/"/></a> 
