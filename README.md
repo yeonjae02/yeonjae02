@@ -62,7 +62,8 @@
 #### ✒️ Certifications
 | 자격증명 | 발급 기관 | 취득일 |
 |-------|---|------|
-| <a href="https://www.dataq.or.kr/www/sub/a_04.do#none">SQLD (SQL 개발자)</a> | 한국데이터산업진흥원(K-DATA) | 2025.04.04. |
+| <a href="https://0yeonjae2.tistory.com/417">정보처리기사</a> | 한국산업인력공 | 2025.09.12. |
+| <a href="https://0yeonjae2.tistory.com/379">SQLD (SQL 개발자)</a> | 한국데이터산업진흥원(K-DATA) | 2025.04.04. |
 
 ---
 ### 📫 CONTACT 📫
