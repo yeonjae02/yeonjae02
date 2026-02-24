@@ -100,3 +100,7 @@ Git · GitHub
 ## 📜 Certifications
 - 정보처리기사 | 2025.09.12.
 - SQLD (SQL Developer) | 2025.04.04.
+
+## 📫 Contact
+<a href="mailto:yeonjaechoi02@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeonjaechoi02@gmail.com"/></a> <a href="https://0yeonjae2.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://0yeonjae2.tistory.com/"/></a> 
+
