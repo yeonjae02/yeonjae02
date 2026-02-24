@@ -80,7 +80,7 @@ Git · GitHub
 - **FORZA 27기 부회장** (숙명여자대학교 소프트웨어학부 C언어 멘토링 학회)  |  2023.02 ~ 2024.01
 
 # 🏆 Algorithm & Competition
-- BOJ 1500+ solved | https://www.acmicpc.net/user/0yeonjae2
+- BOJ 1500+ solved | [프로필](https://solved.ac/profile/0yeonjae2#)
 - ICPC Asia Korea 2025 National First Round 본선 진출 | 2025.11.22.
 - ICPC Sinchon 2025 Summer Algorithm Cmap 초급 멘토 | 2025.07 ~ 2025.08
 - 제5회 숙명여자대학교 프로그래밍 경진대회(SMUPC) 문제 출제 (A번, B번)  | 2025.02 ~ 2025.05
